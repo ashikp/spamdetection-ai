@@ -1,4 +1,3 @@
-
 # Spam Detection Using NLTK and FFNN 
 
 We are using a email classfication dataset with 3002 Column and 5112 rows of data.
@@ -10,6 +9,7 @@ Mission of this project is to learn and train a model to help people to detect t
 ## Information Section
 
 [Download Dataset](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv)
+[Medium Blog](https://ashikpw.medium.com/building-a-spam-email-detection-system-using-ffnn-lstm-and-nltk-572e3c505f5f)
 
 ## Documentation
 
